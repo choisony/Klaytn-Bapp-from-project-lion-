@@ -1,7 +1,7 @@
 // Klaytn IDE uses solidity 0.4.24, 0.5.6 versions.
 pragma solidity >=0.4.24 <=0.5.6;
 
-contract Count {
+contract Practice {
     uint256 public totalSupply = 10;
     string public name = "KlayLion";
     address public owner; // contract deployer
